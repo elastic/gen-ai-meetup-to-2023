@@ -24,6 +24,7 @@
 ## Sample Code
 
 * [Relevance workbench](https://github.com/elastic/relevance-workbench)
+* [Elasticsearch Labs](https://github.com/elastic/elasticsearch-labs)
 
 ## Related Github/Jira Issues
 
