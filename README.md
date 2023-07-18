@@ -10,3 +10,7 @@
 ## Elastic Links
 
 * [Elasticsearch Relevance Engine™ - Build Generative AI search engines and applications](https://www.elastic.co/enterprise-search/generative-ai)
+
+## Sample Code
+
+* [Relevance workbench](https://github.com/elastic/relevance-workbench)
