@@ -8,6 +8,7 @@
 * [Elastic introduces Elastic AI Assistant](https://www.elastic.co/blog/introducing-elastic-ai-assistant)
 * [How to get the best of lexical and AI-powered search with Elastic’s vector database](https://www.elastic.co/blog/lexical-ai-powered-search-elastic-vector-database)
 * [Relativity uses Elasticsearch and Azure OpenAI to build futuristic search experiences, today](https://www.elastic.co/blog/relativity-elasticsearch-azure-openai)
+* [5 stand-out retail use cases for generative AI + Elasticsearch](https://www.elastic.co/blog/retail-use-cases-generative-ai-elasticsearch)
 
 ## Elastic Links
 
