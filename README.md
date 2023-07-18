@@ -15,6 +15,11 @@
 ## Elastic Documentation Links
 
 * [ELSER -- Elastic Learned Sparse EncodER](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html)
+* [k-nearest neighbour (kNN) search](https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html)
+
+## Demos
+
+* [ElasticDocs GPT Demo](https://elasticdocs-gpt-0-app.prod-3.eden.elastic.dev/)
 
 ## Sample Code
 
