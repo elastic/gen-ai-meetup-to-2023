@@ -14,7 +14,7 @@
 
 ## Elastic Documentation Links
 
-* [ELSER -- Elastic Learned Sparse EncodER]https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html
+* [ELSER -- Elastic Learned Sparse EncodER](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html)
 
 ## Sample Code
 
