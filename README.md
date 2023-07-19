@@ -19,6 +19,7 @@
 
 * [ELSER -- Elastic Learned Sparse EncodER](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html)
 * [k-nearest neighbour (kNN) search](https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html)
+* [Tutorial: semantic search with ELSER](https://www.elastic.co/guide/en/elasticsearch/reference/8.8/semantic-search-elser.html)
 
 ## Demos
 
@@ -31,6 +32,6 @@
 
 ## Related Github/Jira Issues
 
-* https://github.com/elastic/elasticsearch/pull/95257
 * https://github.com/elastic/elasticsearch/issues/81788
+* https://github.com/elastic/elasticsearch/pull/95257
 * https://issues.apache.org/jira/browse/LUCENE-10382
