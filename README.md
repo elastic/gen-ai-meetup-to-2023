@@ -4,6 +4,7 @@
 
 ## Blog Posts
 
+* [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data)
 * [Accessing machine learning models in Elastic](https://www.elastic.co/blog/may-2023-launch-machine-learning-models)
 * [Vector search in Elasticsearch: The rationale behind the design](https://www.elastic.co/blog/vector-search-elasticsearch-rationale)
 * [Elastic introduces Elastic AI Assistant](https://www.elastic.co/blog/introducing-elastic-ai-assistant)
@@ -15,12 +16,10 @@
 
 * [Elasticsearch Relevance Engine™ - Build Generative AI search engines and applications](https://www.elastic.co/enterprise-search/generative-ai)
 * [Elasticsearch Benchmarks](https://elasticsearch-benchmarks.elastic.co/index.html#tracks/so_vector/nightly/default/30d)
-
-## Elastic Documentation Links
-
 * [ELSER -- Elastic Learned Sparse EncodER](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html)
 * [k-nearest neighbour (kNN) search](https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html)
 * [Tutorial: semantic search with ELSER](https://www.elastic.co/guide/en/elasticsearch/reference/8.8/semantic-search-elser.html)
+* [Eland Python Client](https://www.elastic.co/guide/en/elasticsearch/client/eland/current/overview.html)
 
 ## Demos
 
@@ -36,3 +35,8 @@
 * https://github.com/elastic/elasticsearch/issues/81788
 * https://github.com/elastic/elasticsearch/pull/95257
 * https://issues.apache.org/jira/browse/LUCENE-10382
+
+## External Links
+
+* [Hugging Face Models](https://huggingface.co/models)
+* [Building Better Tech: A Look at Relativity's Partnership with Microsoft and Elasticsearch](https://www.relativity.com/blog/building-better-tech-a-look-at-relativitys-partnership-with-microsoft-and-elasticsearch/)
