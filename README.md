@@ -2,7 +2,7 @@
 
 ## Slides
 
-## Blog Posts
+## Elastic Blog Posts
 
 * [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data)
 * [Accessing machine learning models in Elastic](https://www.elastic.co/blog/may-2023-launch-machine-learning-models)
@@ -12,6 +12,7 @@
 * [Relativity uses Elasticsearch and Azure OpenAI to build futuristic search experiences, today](https://www.elastic.co/blog/relativity-elasticsearch-azure-openai)
 * [5 stand-out retail use cases for generative AI + Elasticsearch](https://www.elastic.co/blog/retail-use-cases-generative-ai-elasticsearch)
 * [Accelerating R&D in pharma with Elasticsearch, ESRE, LLMs, and LangChain — Part 1](https://www.elastic.co/blog/research-development-pharma-elasticsearch-esre-llms-langchain-1)
+* [Improving information retrieval in the Elastic Stack: Hybrid retrieval](https://www.elastic.co/blog/improving-information-retrieval-elastic-stack-hybrid)
 
 ## Elastic Links
 
