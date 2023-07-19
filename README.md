@@ -11,6 +11,7 @@
 * [How to get the best of lexical and AI-powered search with Elastic’s vector database](https://www.elastic.co/blog/lexical-ai-powered-search-elastic-vector-database)
 * [Relativity uses Elasticsearch and Azure OpenAI to build futuristic search experiences, today](https://www.elastic.co/blog/relativity-elasticsearch-azure-openai)
 * [5 stand-out retail use cases for generative AI + Elasticsearch](https://www.elastic.co/blog/retail-use-cases-generative-ai-elasticsearch)
+* [Accelerating R&D in pharma with Elasticsearch, ESRE, LLMs, and LangChain — Part 1](https://www.elastic.co/blog/research-development-pharma-elasticsearch-esre-llms-langchain-1)
 
 ## Elastic Links
 
@@ -40,3 +41,5 @@
 
 * [Hugging Face Models](https://huggingface.co/models)
 * [Building Better Tech: A Look at Relativity's Partnership with Microsoft and Elasticsearch](https://www.relativity.com/blog/building-better-tech-a-look-at-relativitys-partnership-with-microsoft-and-elasticsearch/)
+* [Elasticsearch -- Langchain](https://python.langchain.com/docs/modules/data_connection/vectorstores/integrations/elasticsearch)
+* [From zero to semantic search embedding model](https://blog.metarank.ai/from-zero-to-semantic-search-embedding-model-592e16d94b61)
