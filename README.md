@@ -4,6 +4,7 @@
 
 ## Blog Posts
 
+* [Accessing machine learning models in Elastic](https://www.elastic.co/blog/may-2023-launch-machine-learning-models)
 * [Vector search in Elasticsearch: The rationale behind the design](https://www.elastic.co/blog/vector-search-elasticsearch-rationale)
 * [Elastic introduces Elastic AI Assistant](https://www.elastic.co/blog/introducing-elastic-ai-assistant)
 * [How to get the best of lexical and AI-powered search with Elastic’s vector database](https://www.elastic.co/blog/lexical-ai-powered-search-elastic-vector-database)
