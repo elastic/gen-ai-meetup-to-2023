@@ -18,6 +18,7 @@ Thanks everyone for joining us yesterday! We'll be adding some more links over t
 
 ## Elastic Links
 
+* [Elasticsearch vector database page](https://www.elastic.co/elasticsearch/vector-database)
 * [Elasticsearch Relevance Engine™ - Build Generative AI search engines and applications](https://www.elastic.co/enterprise-search/generative-ai)
 * [Elasticsearch Benchmarks](https://elasticsearch-benchmarks.elastic.co/index.html#tracks/so_vector/nightly/default/30d)
 * [ELSER -- Elastic Learned Sparse EncodER](https://www.elastic.co/guide/en/machine-learning/current/ml-nlp-elser.html)
