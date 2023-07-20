@@ -22,6 +22,7 @@
 * [k-nearest neighbour (kNN) search](https://www.elastic.co/guide/en/elasticsearch/reference/current/knn-search.html)
 * [Tutorial: semantic search with ELSER](https://www.elastic.co/guide/en/elasticsearch/reference/8.8/semantic-search-elser.html)
 * [Eland Python Client](https://www.elastic.co/guide/en/elasticsearch/client/eland/current/overview.html)
+* [Import models in Elastic](https://www.elastic.co/guide/en/machine-learning/current/ml-trained-models.html)
 
 ## Demos
 
