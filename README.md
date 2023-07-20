@@ -1,5 +1,7 @@
 # Generative AI Toronto Meetup -- July 2023
 
+Thanks everyone for joining us yesterday! We'll be adding some more links over the next couple of days.
+
 ## Slides
 
 ## Elastic Blog Posts
