@@ -4,6 +4,8 @@ Thanks everyone for joining us yesterday! We'll be adding some more links over t
 
 ## Slides
 
+[Elasticsearch: Vector and Hybrid Search](https://docs.google.com/presentation/d/1stjmAsqb5JZC52IsUoA2txL_T08nSgoJzB6M98c_XxQ/edit?usp=sharing)
+
 ## Elastic Blog Posts
 
 * [ChatGPT and Elasticsearch: OpenAI meets private data](https://www.elastic.co/blog/chatgpt-elasticsearch-openai-meets-private-data)
